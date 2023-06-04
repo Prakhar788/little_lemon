@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+# Meta Front-End Professional Certificate - Capstone Project :lemon:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the last capstone project within the [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer).
 
-## Available Scripts
+The challenge consisted of creating a homepage and an online table reservation tool for a fictional restaurant called "Little Lemon" using JavaScript, React, HTML5 and CSS.
+  
+## :book: Table of contents
 
-In the project directory, you can run:
+- [Meta Front-End Professional Certificate - Capstone Project :lemon:](#meta-front-end-professional-certificate---capstone-project-lemon)
+  - [:book: Table of contents](#book-table-of-contents)
+  - [Overview](#overview)
+    - [:camera: Screenshot](#camera-screenshot)
+  - [My process](#my-process)
+    - [:wrench: Built with](#wrench-built-with)
+    - [:bulb: What I learned](#bulb-what-i-learned)
+    - [:mountain\_bicyclist: Continued development](#mountain_bicyclist-continued-development)
+    - [:cake: Useful resources](#cake-useful-resources)
+  - [Author](#author)
+  - [Acknowledgments](#acknowledgments)
 
-### `npm start`
+## Overview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### :camera: Screenshot
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**Homepage overview**
+![Home](/public/screenshots/page.png "Homepage overview")
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## My process
 
-### `npm run build`
+### :wrench: Built with
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [React](https://react.dev/) - JavaScript UI framework
+- [React Router](https://reactrouter.com/en/main) - Javascript framework for client and server-side routing
+- [TailwindCSS](https://tailwindcss.com/) - CSS framework for styling and responsive design
+- [Vite JS](https://vitejs.dev/) - Front-End build tool and bundling 
+- Javascript
+- HTML5
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### :bulb: What I learned
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This capstone project allowed me to put to test what I had learned to far during the Meta Front-End certificate, while also learning new skills through problems encountered on the way.
 
-### `npm run eject`
+Some of the new skills include: Using React Router DOM for page navigation, implementing a stateful multipage form with pattern validation and tailwind styling, switching between different display styles depending on screen size and conditionally rendering a drop-down nav bar for smaller screen devices.  
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+This is also the first time I have used Chrome's Lighthouse reports, which has helped me discover a performance issue caused by the file size of the stock images provided for the project. Compressing the JPG images to the WEBP format has helped decrease loading times significantly.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Although this project has been great practice, I believe that further learning regarding JS async functions, API data retrieval, React Memo, React Render components and Front-End testing is necessary.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### :mountain_bicyclist: Continued development
 
-## Learn More
+This is a closed project. No further development intendet.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### :cake: Useful resources
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [Learn React Router v6 In 45 Minutes](https://www.youtube.com/watch?v=Ul3y1LXxzdU&t=1341s) - Great React Router tutorial from beginner to intermediate topics.  
+- [Cosmic Voices from Bulgaria & Sofia Philharmonic Orchestra - Zaspalo e Chelebiiche](https://www.youtube.com/watch?v=UsDtmdWFBxU) - Beautiful Bulgarian folk to make hard dev times more pleasant
 
-### Code Splitting
+## Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- Github - [Rauldotgit](https://github/rauldotgit)
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Acknowledgments
