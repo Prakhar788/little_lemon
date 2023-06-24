@@ -47,18 +47,3 @@ This is also the first time I have used Chrome's Lighthouse reports, which has h
 
 Although this project has been great practice, I believe that further learning regarding JS async functions, API data retrieval, React Memo, React Render components and Front-End testing is necessary.
 
-
-### :mountain_bicyclist: Continued development
-
-This is a closed project. No further development intendet.
-
-### :cake: Useful resources
-
-- [Learn React Router v6 In 45 Minutes](https://www.youtube.com/watch?v=Ul3y1LXxzdU&t=1341s) - Great React Router tutorial from beginner to intermediate topics.  
-- [Cosmic Voices from Bulgaria & Sofia Philharmonic Orchestra - Zaspalo e Chelebiiche](https://www.youtube.com/watch?v=UsDtmdWFBxU) - Beautiful Bulgarian folk to make hard dev times more pleasant
-
-## Author
-
-- Github - [Rauldotgit](https://github/rauldotgit)
-
-## Acknowledgments
